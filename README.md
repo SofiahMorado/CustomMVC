@@ -16,7 +16,7 @@ CustomMVC is a simple MVC (Model-View-Controller) framework implemented in PHP.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CustomMVC.git
+   git clone https://github.com/SofiahMorado/CustomMVC.git
    ```
 
 2. **Database Setup:**
